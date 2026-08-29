@@ -1,0 +1,13 @@
+[2026-08-29 11:13:47] [INFO] Monitoring started for 3 hosts (interval=30s, threshold=2 fails)
+[2026-08-29 11:14:17] [WARNING] DOWN: Google-DNS (8.8.8.8) failed 2 checks in a row
+[2026-08-29 11:14:17] [WARNING] DOWN: Cloudflare-DNS (1.1.1.1) failed 2 checks in a row
+[2026-08-29 11:14:17] [WARNING] DOWN: Fake-Host (192.0.2.1) failed 2 checks in a row
+[2026-08-29 11:18:06] [INFO] Monitoring stopped by user
+[2026-08-29 11:19:47] [INFO] Monitoring started for 3 hosts (interval=30s, threshold=2 fails)
+[2026-08-29 11:20:17] [WARNING] DOWN: Google-DNS (8.8.8.8) failed 2 checks in a row
+[2026-08-29 11:20:17] [WARNING] DOWN: Cloudflare-DNS (1.1.1.1) failed 2 checks in a row
+[2026-08-29 11:20:17] [WARNING] DOWN: Fake-Host (192.0.2.1) failed 2 checks in a row
+[2026-08-29 11:20:43] [INFO] Monitoring stopped by user
+[2026-08-29 11:21:36] [INFO] Monitoring started for 4 hosts (interval=30s, threshold=2 fails)
+[2026-08-29 11:22:08] [WARNING] DOWN: Fake-Host (192.0.2.1) failed 2 checks in a row
+[2026-08-29 11:23:37] [INFO] Monitoring stopped by user
